@@ -1,0 +1,10 @@
+db.sqlite3
+.venv/**
+**__pycache__/
+.vscode/**
+*.png
+*.jpg
+*.jpeg
+**/*.pyc
+
+accounts/__pycache__
